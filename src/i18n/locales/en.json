@@ -1,0 +1,166 @@
+{
+  "app": {
+    "title": "SCL-90 Psychological Assessment"
+  },
+  "header": {
+    "title": "SCL-90 Assessment",
+    "home": "Home",
+    "assessment": "Take Assessment",
+    "profile": "My Profile",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "footer": {
+    "title": "SCL-90 Assessment",
+    "description": "International psychological assessment tool",
+    "links": "Quick Links",
+    "home": "Home",
+    "privacy": "Privacy Policy",
+    "reference": "References",
+    "referenceText": "SCL-90 has been widely used in psychological research and clinical assessment.",
+    "copyright": "SCL-90 International Assessment",
+    "dataNotice": "All data is securely stored locally on your device."
+  },
+  "home": {
+    "welcome": "Welcome to SCL-90 Assessment",
+    "description": "A comprehensive psychological assessment tool to evaluate your mental health across 10 dimensions.",
+    "features": {
+      "heading": "Core Features",
+      "title1": "Scientific Assessment",
+      "desc1": "Based on the validated SCL-90 instrument",
+      "title2": "Privacy First",
+      "desc2": "All data stays on your device",
+      "title3": "Visual Reports",
+      "desc3": "Get clear visual results and recommendations"
+    },
+    "about": "About SCL-90",
+    "aboutText1": "SCL-90 (Symptom Checklist-90) includes 90 items across 10 dimensions (somatization, obsessive-compulsive, interpersonal sensitivity, etc.), and is an internationally widely used mental health assessment tool. This scale can help you understand your mental health status, identify potential issues early, and receive professional advice.",
+    "aboutText2": "Using this system for assessment is completely private. All data is stored only on your local device and will not be uploaded to any server.",
+    "dimensions": "Psychological Dimensions",
+    "questions": "Assessment Questions",
+    "privacy": "Data Privacy",
+    "startButton": "Start Assessment",
+    "testimonials": "User Testimonials",
+    "testimonialText": "The SCL-90 assessment helped me better understand my mental health status. The interface is clean and easy to use, and the reports are detailed and professional.",
+    "testimonialAuthor": "Anonymous User"
+  },
+  "login": {
+    "title": "Log In",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Log In",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Register now",
+    "errors": {
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "invalidCredentials": "Invalid email or password"
+    }
+  },
+  "register": {
+    "title": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "privacyAgreement": "I agree to the",
+    "privacyLink": "Privacy Policy",
+    "submit": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginLink": "Log in",
+    "errors": {
+      "emailRequired": "Email is required",
+      "invalidEmail": "Please enter a valid email",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 6 characters",
+      "passwordMismatch": "Passwords do not match",
+      "privacyRequired": "You must agree to the privacy policy"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "Your privacy is important to us. This policy explains how we handle your data.",
+    "dataStorage": "Local Data Storage",
+    "dataStorageText": "All assessment data is stored locally on your device. We do not upload your assessment data to any servers.",
+    "dataEncryption": "Data Encryption",
+    "dataEncryptionText": "Your locally stored data is encrypted to protect your privacy.",
+    "gdprCompliance": "GDPR Compliance",
+    "gdprComplianceText": "This application complies with GDPR requirements by keeping your data under your control."
+  },
+  "assessment": {
+    "title": "SCL-90 Assessment",
+    "question": "Question",
+    "previous": "Previous",
+    "next": "Next",
+    "submit": "Submit",
+    "missingAnswers": "Please answer all questions before submitting.",
+    "options": {
+      "1": "Not at all",
+      "2": "A little bit",
+      "3": "Moderately",
+      "4": "Quite a bit",
+      "5": "Extremely"
+    }
+  },
+  "results": {
+    "title": "Assessment Results",
+    "id": "Result ID",
+    "date": "Date",
+    "totalScore": "Total Score",
+    "dimensionScores": "Dimension Scores",
+    "recommendation": "Recommendation",
+    "needAttention": "Your score indicates areas that need attention",
+    "highScoreAdvice": "Based on your assessment, we recommend consulting with a mental health professional for a more detailed evaluation.",
+    "highDimensions": "Areas with elevated scores",
+    "normalRange": "Your scores are within normal range",
+    "normalRangeAdvice": "Your assessment indicates scores within the normal range. Continue to practice good mental health habits.",
+    "generatePdf": "Generate PDF Report",
+    "generating": "Generating...",
+    "pdfSuccess": "PDF report has been generated and downloaded successfully.",
+    "disclaimer": "Note: This assessment is a screening tool and not a clinical diagnosis. For professional advice, please consult a qualified mental health professional."
+  },
+  "dimensions": {
+    "somatization": "Somatization",
+    "obsessiveCompulsive": "Obsessive-Compulsive",
+    "interpersonalSensitivity": "Interpersonal Sensitivity",
+    "depression": "Depression",
+    "anxiety": "Anxiety",
+    "hostility": "Hostility",
+    "phobicAnxiety": "Phobic Anxiety",
+    "paranoidIdeation": "Paranoid Ideation",
+    "psychoticism": "Psychoticism",
+    "additional": "Additional Items"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "email": "Email",
+    "joined": "Member Since",
+    "lastLogin": "Last Login",
+    "unknown": "Unknown",
+    "assessmentHistory": "Assessment History",
+    "startNew": "Start New Assessment",
+    "date": "Date",
+    "score": "Score",
+    "actions": "Actions",
+    "viewResults": "View Results",
+    "noAssessments": "You haven't taken any assessments yet.",
+    "takeFirst": "Take your first assessment",
+    "dataManagement": "Data Management",
+    "dataInfo": "All your data is stored locally on your device. You can export or delete your data at any time.",
+    "exportData": "Export Data",
+    "deleteAllData": "Delete All Data"
+  },
+  "questions": {
+    "q1": "Headaches",
+    "q2": "Nervousness or shakiness inside",
+    "q3": "Unwanted thoughts, words, or ideas that won't leave your mind",
+    "q4": "Faintness or dizziness",
+    "q5": "Loss of sexual interest or pleasure",
+    "q6": "Feeling critical of others",
+    "q7": "The idea that someone else can control your thoughts",
+    "q8": "Feeling others are to blame for most of your troubles",
+    "q9": "Trouble remembering things",
+    "q10": "Worried about sloppiness or carelessness"
+  }
+}

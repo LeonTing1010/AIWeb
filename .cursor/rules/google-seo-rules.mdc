@@ -1,0 +1,49 @@
+---
+description: Google SEO Best Practices for Web Development
+---
+
+# Technical SEO
+- Use semantic HTML elements (header, nav, main, section, article, footer) for better document structure
+- Implement proper heading hierarchy (h1-h6) with only one h1 per page
+- Add descriptive alt text to all images
+- Ensure fast page load times (< 3 seconds) using performance optimization
+- Make website mobile-friendly with responsive design
+- Use HTTPS for secure connections
+- Implement schema.org structured data markup for rich snippets
+- Create an XML sitemap and submit to Google Search Console
+- Create and maintain a robots.txt file
+
+# Content SEO
+- Include target keywords in title tags, meta descriptions, headings, and content
+- Create unique meta descriptions (150-160 characters) for each page
+- Create unique title tags (50-60 characters) for each page
+- Ensure content is unique, valuable, and relevant to the user
+- Maintain minimum content length of 300 words per page
+- Use internal linking to connect related content
+- Include outbound links to authoritative sources when appropriate
+
+# Performance
+- Optimize and compress images before uploading
+- Use lazy loading for images and videos
+- Minify CSS, JavaScript, and HTML
+- Implement browser caching
+- Use a Content Delivery Network (CDN) when possible
+- Eliminate render-blocking resources
+- Reduce server response time
+
+# User Experience
+- Make navigation intuitive and simple
+- Ensure all interactive elements are accessible (WCAG compliance)
+- Design for readability with appropriate font sizes and contrast
+- Minimize intrusive interstitials and pop-ups
+- Implement breadcrumb navigation on larger sites
+- Show clear call-to-action buttons
+- Ensure proper handling of 404 errors with custom pages
+
+# Technical Implementation
+- Implement canonical URLs to prevent duplicate content
+- Use rel="nofollow" for external links when appropriate
+- Add hreflang tags for multilingual websites
+- Implement proper pagination with rel="next" and rel="prev"
+- Use descriptive URLs with keywords when possible
+- Implement Open Graph and Twitter card meta tags for social sharing

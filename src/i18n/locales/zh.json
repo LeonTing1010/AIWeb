@@ -1,0 +1,166 @@
+{
+  "app": {
+    "title": "SCL-90心理症状评估量表"
+  },
+  "header": {
+    "title": "SCL-90评估",
+    "home": "首页",
+    "assessment": "参与评估",
+    "profile": "个人档案",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录"
+  },
+  "footer": {
+    "title": "SCL-90评估",
+    "description": "国际心理健康评估工具",
+    "links": "快速链接",
+    "home": "首页",
+    "privacy": "隐私政策",
+    "reference": "参考资料",
+    "referenceText": "SCL-90已广泛应用于心理研究和临床评估。",
+    "copyright": "SCL-90国际评估",
+    "dataNotice": "所有数据安全地存储在您的设备上。"
+  },
+  "home": {
+    "welcome": "欢迎使用SCL-90评估",
+    "description": "一个综合性的心理评估工具，用于评估您在10个维度上的心理健康状况。",
+    "features": {
+      "heading": "核心功能",
+      "title1": "科学评估",
+      "desc1": "基于验证过的SCL-90量表",
+      "title2": "隐私优先",
+      "desc2": "所有数据保存在您的设备上",
+      "title3": "可视化报告",
+      "desc3": "获取清晰的视觉结果和建议"
+    },
+    "about": "关于SCL-90",
+    "aboutText1": "SCL-90（症状自评量表）包含90个项目、10个维度（躯体化、强迫症状、人际关系敏感等），是国际广泛使用的心理健康评估工具。该量表可以帮助您了解自己的心理健康状况，及早发现潜在问题，并获取专业建议。",
+    "aboutText2": "使用本系统进行评估是完全私密的，所有数据仅存储在您的本地设备中，不会上传至任何服务器。",
+    "dimensions": "心理维度",
+    "questions": "评估问题",
+    "privacy": "数据隐私",
+    "startButton": "开始评估",
+    "testimonials": "用户评价",
+    "testimonialText": "SCL-90评估帮助我更好地了解自己的心理健康状况，界面简洁易用，报告内容专业详尽。",
+    "testimonialAuthor": "匿名用户"
+  },
+  "login": {
+    "title": "登录",
+    "email": "邮箱",
+    "password": "密码",
+    "submit": "登录",
+    "noAccount": "没有账号？",
+    "registerLink": "立即注册",
+    "errors": {
+      "emailRequired": "邮箱是必填项",
+      "passwordRequired": "密码是必填项",
+      "invalidCredentials": "邮箱或密码无效"
+    }
+  },
+  "register": {
+    "title": "创建账号",
+    "email": "邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "privacyAgreement": "我同意",
+    "privacyLink": "隐私政策",
+    "submit": "创建账号",
+    "alreadyHaveAccount": "已有账号？",
+    "loginLink": "登录",
+    "errors": {
+      "emailRequired": "邮箱是必填项",
+      "invalidEmail": "请输入有效的邮箱",
+      "passwordRequired": "密码是必填项",
+      "passwordTooShort": "密码至少需要6个字符",
+      "passwordMismatch": "两次输入的密码不一致",
+      "privacyRequired": "您必须同意隐私政策"
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "intro": "您的隐私对我们很重要。本政策解释了我们如何处理您的数据。",
+    "dataStorage": "本地数据存储",
+    "dataStorageText": "所有评估数据都存储在您的设备上。我们不会将您的评估数据上传到任何服务器。",
+    "dataEncryption": "数据加密",
+    "dataEncryptionText": "您本地存储的数据已加密，以保护您的隐私。",
+    "gdprCompliance": "GDPR合规",
+    "gdprComplianceText": "本应用程序符合GDPR要求，让您的数据始终处于您的控制之下。"
+  },
+  "assessment": {
+    "title": "SCL-90评估",
+    "question": "问题",
+    "previous": "上一题",
+    "next": "下一题",
+    "submit": "提交",
+    "missingAnswers": "请在提交前回答所有问题。",
+    "options": {
+      "1": "完全没有",
+      "2": "轻微",
+      "3": "中等",
+      "4": "偏重",
+      "5": "严重"
+    }
+  },
+  "results": {
+    "title": "评估结果",
+    "id": "结果ID",
+    "date": "日期",
+    "totalScore": "总分",
+    "dimensionScores": "维度得分",
+    "recommendation": "建议",
+    "needAttention": "您的得分表明有需要关注的领域",
+    "highScoreAdvice": "根据您的评估，我们建议您咨询心理健康专家进行更详细的评估。",
+    "highDimensions": "得分较高的领域",
+    "normalRange": "您的得分在正常范围内",
+    "normalRangeAdvice": "您的评估表明得分在正常范围内。继续保持良好的心理健康习惯。",
+    "generatePdf": "生成PDF报告",
+    "generating": "生成中...",
+    "pdfSuccess": "PDF报告已成功生成并下载。",
+    "disclaimer": "注意：本评估是一个筛查工具，而非临床诊断。如需专业建议，请咨询合格的心理健康专家。"
+  },
+  "dimensions": {
+    "somatization": "躯体化",
+    "obsessiveCompulsive": "强迫症状",
+    "interpersonalSensitivity": "人际关系敏感",
+    "depression": "抑郁",
+    "anxiety": "焦虑",
+    "hostility": "敌对",
+    "phobicAnxiety": "恐怖焦虑",
+    "paranoidIdeation": "偏执观念",
+    "psychoticism": "精神病性",
+    "additional": "附加项目"
+  },
+  "profile": {
+    "title": "个人档案",
+    "personalInfo": "个人信息",
+    "email": "邮箱",
+    "joined": "注册时间",
+    "lastLogin": "上次登录",
+    "unknown": "未知",
+    "assessmentHistory": "评估历史",
+    "startNew": "开始新评估",
+    "date": "日期",
+    "score": "分数",
+    "actions": "操作",
+    "viewResults": "查看结果",
+    "noAssessments": "您还没有进行任何评估。",
+    "takeFirst": "进行您的第一次评估",
+    "dataManagement": "数据管理",
+    "dataInfo": "您的所有数据都存储在您的设备上。您可以随时导出或删除您的数据。",
+    "exportData": "导出数据",
+    "deleteAllData": "删除所有数据"
+  },
+  "questions": {
+    "q1": "头痛",
+    "q2": "神经过敏，心中不踏实",
+    "q3": "脑子里有不必要的想法或字句盘旋",
+    "q4": "头昏或昏倒",
+    "q5": "对异性的兴趣减退",
+    "q6": "对旁人责备求全",
+    "q7": "感到别人能控制您的思想",
+    "q8": "感到别人对您的麻烦或祸害负责",
+    "q9": "忘记性很大",
+    "q10": "担心自己的衣饰整齐及仪态的端正"
+  }
+}
